@@ -7,9 +7,18 @@ An IT startup trying to land our first large client
 * Steve Cherewaty 
 * Omar Ardid
 * 
-### [Team Agreement](https://docs.google.com/document/d/1WsJZxQcITUzdnGTcraVENbFdZm1JytgdIBLLN0e1gM4/)
-### [System Selection](https://docs.google.com/document/d/1upHavx8w1v2Z9PZ05XHCAj7Z1DOHR10tBLqgzHIS8ic/edit)
+### [Team Agreement]
+
+(https://docs.google.com/document/d/1WsJZxQcITUzdnGTcraVENbFdZm1JytgdIBLLN0e1gM4/)
+
+### [System Selection]
+
+(https://docs.google.com/document/d/1upHavx8w1v2Z9PZ05XHCAj7Z1DOHR10tBLqgzHIS8ic/edit)
+
 ### [Topologies/visuals]
+
+https://drive.google.com/file/d/1_pOPxNQ2I18ht_123GOdQyVNS1NZW0WS/view?usp=sharing
+
 ### [SOP docs and the slideshow]
 
 ## Github Links 
@@ -21,7 +30,7 @@ An IT startup trying to land our first large client
 ## LinkedIn Links 
 * Ricky Yeung https://www.linkedin.com/in/ricky-yeungg/
 * Steve Cherewaty https://github.com/SCherewaty
-* Gilbert Collado https://www.linkedin.com/in/gilbert-collado-545099254?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKJm25bkZRj6uvkhC6%2BWFag%3D%3D
+* Gilbert Collado www.linkedin.com/in/gilbert-collado-545099254
 * Omar Ardid https://www.linkedin.com/in/ardidomar/
 
 ## Trello
