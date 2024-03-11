@@ -6,6 +6,7 @@ An IT startup trying to land our first large client
 * Gilbert Callado 
 * Steve Cherewaty 
 * Omar Ardid
+* 
 ### [Team Agreement](https://docs.google.com/document/d/1WsJZxQcITUzdnGTcraVENbFdZm1JytgdIBLLN0e1gM4/)
 ### [System Selection](https://docs.google.com/document/d/1upHavx8w1v2Z9PZ05XHCAj7Z1DOHR10tBLqgzHIS8ic/edit)
 ### [Topologies/visuals]
