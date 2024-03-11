@@ -7,7 +7,7 @@ An IT startup trying to land our first large client
 * Steve Cherewaty 
 * Omar Ardid
 ### [Team Agreement](https://docs.google.com/document/d/1WsJZxQcITUzdnGTcraVENbFdZm1JytgdIBLLN0e1gM4/)
-### [System Selection](https://docs.google.com/document/d/13z9ZliGQQvXgbIUF8N2w9eJYq4QD4ny-KJ6w84K7cGI/edit)
+### [System Selection](https://docs.google.com/document/d/1upHavx8w1v2Z9PZ05XHCAj7Z1DOHR10tBLqgzHIS8ic/edit)
 ### [Topologies/visuals]
 ### [SOP docs and the slideshow]
 
