@@ -16,6 +16,7 @@ https://docs.google.com/document/d/1upHavx8w1v2Z9PZ05XHCAj7Z1DOHR10tBLqgzHIS8ic/
 https://drive.google.com/file/d/1_pOPxNQ2I18ht_123GOdQyVNS1NZW0WS/view?usp=sharing
 https://drive.google.com/file/d/1vH_wKhBOJI5s-nnQ3opsCGawuycbPO2N/view?usp=sharing
 https://drive.google.com/file/d/1pl-8-nNs7BzVez7VG9IkUhHbQ8909P0M/view
+https://drive.google.com/file/d/1LX3QSnXwmqpZPut08U_fXY7mqin2fXBl/view
 ### [SOP docs and the slideshow]
 https://docs.google.com/document/d/1nXtYx5ae3qz76uyunSufD96BJOg4eEcL8Y-NIWmQWNs/edit?usp=sharing
 https://docs.google.com/document/d/1qDcV7kB-L8bpjyFzptwnYqjsqUsIwBnkGc5XElc1cc8/edit?usp=sharing
