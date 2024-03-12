@@ -6,7 +6,7 @@ An IT startup trying to land our first large client
 * Gilbert Collado [Github](https://github.com/JapanesePlatano) ! [LinkedIn](https://www.linkedin.com/in/gilbert-collado-545099254)
 * Steve Cherewaty [Github](https://github.com/SCherewaty) ! [LinkedIn](https://www.linkedin.com/in/steve-cherewaty-jr-b8727135/)
 * Omar Ardid [Github](https://github.com/oardid) ! [LinkedIn](https://www.linkedin.com/in/ardidomar/)
-* Julian Camilo Peña [Github]() ! [LinkedIn]()
+* Julian Camilo Peña [Github](https://github.com/julianp91) ! [LinkedIn](https://www.linkedin.com/in/julian-pena-bb8643267/)
 
 ### [Team Agreement](https://docs.google.com/document/d/1WsJZxQcITUzdnGTcraVENbFdZm1JytgdIBLLN0e1gM4/)
 ### [System Selection](https://docs.google.com/document/d/1upHavx8w1v2Z9PZ05XHCAj7Z1DOHR10tBLqgzHIS8ic/edit)
