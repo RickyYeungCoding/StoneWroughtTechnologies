@@ -3,7 +3,7 @@ An IT startup trying to land our first large client
 
 ## Team Members
 * Ricky Yeung [Github](https://github.com/RickyYeungCoding) ! [LinkedIn](https://www.linkedin.com/in/ricky-yeungg/)
-* Gilbert Callado [Github](https://github.com/JapanesePlatano) ! [LinkedIn](https://www.linkedin.com/in/gilbert-collado-545099254)
+* Gilbert Collado [Github](https://github.com/JapanesePlatano) ! [LinkedIn](https://www.linkedin.com/in/gilbert-collado-545099254)
 * Steve Cherewaty [Github](https://github.com/SCherewaty) ! [LinkedIn](https://www.linkedin.com/in/steve-cherewaty-jr-b8727135/)
 * Omar Ardid [Github](https://github.com/oardid) ! [LinkedIn](https://www.linkedin.com/in/ardidomar/)
 * Julian Camilo Peña [Github]() ! [LinkedIn]()
