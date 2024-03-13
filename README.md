@@ -15,6 +15,7 @@ An IT startup trying to land our first large client
 * [Help Desk Flow Chart](https://drive.google.com/file/d/1vH_wKhBOJI5s-nnQ3opsCGawuycbPO2N/view?usp=sharing)
 * [SSH Topolgy](https://drive.google.com/file/d/1pl-8-nNs7BzVez7VG9IkUhHbQ8909P0M/view)
 * [Employee Termination Flow Chart](https://drive.google.com/file/d/1LX3QSnXwmqpZPut08U_fXY7mqin2fXBl/view)
+* [
 ### SOP docs and the slideshow
 * [New Employee Onboarding](https://docs.google.com/document/d/1nXtYx5ae3qz76uyunSufD96BJOg4eEcL8Y-NIWmQWNs/edit?usp=sharing)
 * [Acceptable Use Agreement](https://docs.google.com/document/d/1qDcV7kB-L8bpjyFzptwnYqjsqUsIwBnkGc5XElc1cc8/edit?usp=sharing)
@@ -26,6 +27,7 @@ An IT startup trying to land our first large client
 * [Secure/Personal Information Disposal](https://docs.google.com/document/d/1I5zPIqsI0WmwxjPcz_DC6Wt2tvF-uyxNo_ZTIzot4CU/edit?usp=sharing)
 * [Purchase Requests](https://docs.google.com/document/d/1ILy7IJSAVLfWKxyg06bEw4KMhJprP6QRpq5MxhappCQ/edit?usp=sharing)
 * [Employee Termination](https://docs.google.com/document/d/1weOl-0gjxbLM22EYeFYM_MOpc35QFXO1BS7KbrwagtU/edit?usp=sharing)
+* [Preferred Hardware and Software](https://docs.google.com/document/d/1uYpypJCrw9naFNstVJYy_2FXNz9CqOU63nnVa1TtNv8/edit#heading=h.64g8qpf0x9oa)
 
 ## [Trello](https://trello.com/w/stonewroughttechnologies)
 
