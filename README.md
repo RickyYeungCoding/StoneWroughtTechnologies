@@ -28,6 +28,7 @@ An IT startup trying to land our first large client
 * [Purchase Requests](https://docs.google.com/document/d/1ILy7IJSAVLfWKxyg06bEw4KMhJprP6QRpq5MxhappCQ/edit?usp=sharing)
 * [Employee Termination](https://docs.google.com/document/d/1weOl-0gjxbLM22EYeFYM_MOpc35QFXO1BS7KbrwagtU/edit?usp=sharing)
 * [Preferred Hardware and Software](https://docs.google.com/document/d/1uYpypJCrw9naFNstVJYy_2FXNz9CqOU63nnVa1TtNv8/edit#heading=h.64g8qpf0x9oa)
+* [Slideshow](https://docs.google.com/presentation/d/1NytewG-0NmdFp-BPz9OQDPCri-8Sdzyo8GSBQ91oG2M/edit#slide=id.p)
 
 ## [Trello](https://trello.com/w/stonewroughttechnologies)
 
