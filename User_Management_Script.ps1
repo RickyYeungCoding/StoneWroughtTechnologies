@@ -12,9 +12,15 @@ function Show-Menu {
 # Function to add a user
 function Add-User {
     while ($true) {
-        # Prompt for username and password
-        $username = Read-Host "Enter username"
+        # Prompt for username, password, first name, and last name
+        $username = Read-Host "Enter username (type 'exit' to return to main menu)"
+        if ($username -eq "exit") {
+            return
+        }
+        
         $password = Read-Host "Enter password" -AsSecureString # Hide password input
+        $firstName = Read-Host "Enter first name"
+        $lastName = Read-Host "Enter last name"
 
         # Check if username is provided
         if ([string]::IsNullOrEmpty($username)) {
@@ -26,8 +32,11 @@ function Add-User {
         $passwordBSTR = [System.Runtime.InteropServices.Marshal]::SecureStringToBSTR($password)
         $passwordText = [System.Runtime.InteropServices.Marshal]::PtrToStringAuto($passwordBSTR)
 
-        # Add user
-        net user /add $username $passwordText
+        # Set user's full name
+        $fullName = "$firstName $lastName"
+
+        # Add user with full name
+        $null = New-LocalUser -Name $username -Password $password -FullName $fullName -Description "Created via PowerShell"
 
         # Prompt for group membership
         $groupChoice = Read-Host "Enter 'U' to add user to 'Users' group, 'A' to add user to 'Administrators' group, or 'exit' to return to main menu"
@@ -38,11 +47,11 @@ function Add-User {
         }
 
         if ($groupChoice.ToUpper() -eq 'U') {
-            net localgroup Users $username /add
+            Add-LocalGroupMember -Group "Users" -Member $username
             Write-Host "User $username added to 'Users' group."
         }
         elseif ($groupChoice.ToUpper() -eq 'A') {
-            net localgroup Administrators $username /add
+            Add-LocalGroupMember -Group "Administrators" -Member $username
             Write-Host "User $username added to 'Administrators' group."
         }
         else {
@@ -110,3 +119,5 @@ while ($true) {
         Default { Write-Host "Invalid choice. Please try again." }
     }
 }
+
+# Resources: https://www.youtube.com/watch?v=UBhixaTX8VE, https://www.youtube.com/watch?v=SbAo0_UFJYU
