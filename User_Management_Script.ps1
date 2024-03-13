@@ -13,12 +13,12 @@ function Show-Menu {
 function Add-User {
     while ($true) {
         # Prompt for first name, last name, username, and password
-        $firstName = Read-Host "Enter first name"
-        $lastName = Read-Host "Enter last name"
-        $username = Read-Host "Enter username (type 'exit' to return to main menu)"
-        if ($username -eq "exit") {
+        $firstName = Read-Host "Enter first name or type 'exit' to return to main menu"
+         if ($firstname -eq "exit") {
             return
         }
+        $lastName = Read-Host "Enter last name"
+        $username = Read-Host "Enter username"
         $password = Read-Host "Enter password" -AsSecureString # Hides password input
         
         # Check if username is provided
