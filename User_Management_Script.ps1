@@ -57,6 +57,17 @@ function Add-User {
         else {
             Write-Host "Invalid choice. No group membership changes were made."
         }
+        
+        # Enabling password change for user
+        if (Get-LocalUser -Name $username -ErrorAction SilentlyContinue) {
+            # Expire the user's password
+            $user = [ADSI]"WinNT://./$username,user"
+            $user.psbase.InvokeSet("PasswordExpired", 1)
+            $user.psbase.CommitChanges()
+            Write-Output "Password change required for user '$username' at next logon."
+        } else {
+            Write-Output "User '$username' not found."
+        }
     }
 }
 
