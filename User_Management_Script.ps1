@@ -12,16 +12,15 @@ function Show-Menu {
 # Function to add a user
 function Add-User {
     while ($true) {
-        # Prompt for username, password, first name, and last name
+        # Prompt for first name, last name, username, and password
+        $firstName = Read-Host "Enter first name"
+        $lastName = Read-Host "Enter last name"
         $username = Read-Host "Enter username (type 'exit' to return to main menu)"
         if ($username -eq "exit") {
             return
         }
+        $password = Read-Host "Enter password" -AsSecureString # Hides password input
         
-        $password = Read-Host "Enter password" -AsSecureString # Hide password input
-        $firstName = Read-Host "Enter first name"
-        $lastName = Read-Host "Enter last name"
-
         # Check if username is provided
         if ([string]::IsNullOrEmpty($username)) {
             Write-Host "Username cannot be empty. Please try again."
@@ -58,7 +57,7 @@ function Add-User {
             Write-Host "Invalid choice. No group membership changes were made."
         }
         
-        # Enabling password change for user
+        # Enabling password change for user at next logon
         if (Get-LocalUser -Name $username -ErrorAction SilentlyContinue) {
             # Expire the user's password
             $user = [ADSI]"WinNT://./$username,user"
