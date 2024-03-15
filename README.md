@@ -32,7 +32,7 @@ An IT startup trying to land our first large client
 
 ## [Trello](https://trello.com/w/stonewroughttechnologies)
 
-## Employee Handbook
+##[Employee Handbook](https://docs.google.com/document/d/15JO3olegzwzvN4KwxuQu5i8LtAzOtiFCxcJaPQkHtrA/edit#heading=h.y2riekwk9f5)
 
 ## IT SOP
 
